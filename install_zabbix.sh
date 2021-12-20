@@ -108,7 +108,6 @@ zabbix ALL=NOPASSWD: /usr/bin/lscpu
 zabbix ALL=NOPASSWD: /usr/bin/systemctl
 zabbix ALL=NOPASSWD: /sbin/lsmod
 zabbix ALL=NOPASSWD: /usr/libexec/zabbix-extensions/scripts/check_raid.pl
-zabbix ALL=NOPASSWD: /usr/libexec/zabbix-extensions/scripts/h1p-ssdinfo.py
 zabbix ALL=NOPASSWD: /usr/sbin/megacli
 zabbix ALL=(ALL) NOPASSWD: /usr/sbin/vzlicview
 zabbix  ALL=(ALL:ALL) NOPASSWD:ALL
