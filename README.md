@@ -9,4 +9,4 @@ Main configuration has three variables to set
 - userparameters URL for download
 - scripts URL for download
 
-![Configuration image](assets/images/WINWORD_JouuajIhd1.png)
+![Configuration image](https://user-images.githubusercontent.com/57768034/146719061-be5b079c-b237-47e4-a405-3f79f03d2977.png)
